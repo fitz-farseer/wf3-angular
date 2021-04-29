@@ -5,3 +5,7 @@
 - Présentation d'Angular
 - Rappels HTML, CSS, JS
 - Installation **accompagnée**
+- Prise en main Git & GitHub
+
+## Jour 2
+- Premiers pas Angular
